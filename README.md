@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Cardona
-- 👀 I’m interested in learning software development in general, tenis court and and soccer
+- 👀 I’m interested in learning software development in general, tenis court and soccer
 - 🌱 I’m currently learning Frontend development and cloud development
 - 📫 How to reach me? My email cardona7daniel@gmail.com
 
