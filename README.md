@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Daniel Cardona
-- 👀 I’m interested in learning software development in general, tenis court and soccer
-- 🌱 I’m currently learning Frontend development and cloud development
+- 👀 I’m a software development focused on Frontend development but also backend and data transformation.
+- 🌱 I’m currently working with Frontend development and cloud deployment
 - 📫 How to reach me? My email cardona7daniel@gmail.com
 
 <!---
